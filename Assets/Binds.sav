@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfBinds xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/UGM">
+  <Binds>
+    <categoryName>On Foot</categoryName>
+    <binds>
+      <Bind>
+        <name>Walk Forward</name>
+        <primary xmlns:d5p1="http://schemas.datacontract.org/2004/07/UnityEngine">W</primary>
+        <secondary xmlns:d5p1="http://schemas.datacontract.org/2004/07/UnityEngine">UpArrow</secondary>
+        <extra xmlns:d5p1="http://schemas.datacontract.org/2004/07/UnityEngine">None</extra>
+      </Bind>
+      <Bind>
+        <name>Walk Backwards</name>
+        <primary xmlns:d5p1="http://schemas.datacontract.org/2004/07/UnityEngine">S</primary>
+        <secondary xmlns:d5p1="http://schemas.datacontract.org/2004/07/UnityEngine">DownArrow</secondary>
+        <extra xmlns:d5p1="http://schemas.datacontract.org/2004/07/UnityEngine">None</extra>
+      </Bind>
+      <Bind>
+        <name>Strafe Right</name>
+        <primary xmlns:d5p1="http://schemas.datacontract.org/2004/07/UnityEngine">D</primary>
+        <secondary xmlns:d5p1="http://schemas.datacontract.org/2004/07/UnityEngine">RightArrow</secondary>
+        <extra xmlns:d5p1="http://schemas.datacontract.org/2004/07/UnityEngine">None</extra>
+      </Bind>
+      <Bind>
+        <name>Strafe Left</name>
+        <primary xmlns:d5p1="http://schemas.datacontract.org/2004/07/UnityEngine">A</primary>
+        <secondary xmlns:d5p1="http://schemas.datacontract.org/2004/07/UnityEngine">LeftArrow</secondary>
+        <extra xmlns:d5p1="http://schemas.datacontract.org/2004/07/UnityEngine">None</extra>
+      </Bind>
+      <Bind>
+        <name>Jump</name>
+        <primary xmlns:d5p1="http://schemas.datacontract.org/2004/07/UnityEngine">Space</primary>
+        <secondary xmlns:d5p1="http://schemas.datacontract.org/2004/07/UnityEngine">None</secondary>
+        <extra xmlns:d5p1="http://schemas.datacontract.org/2004/07/UnityEngine">None</extra>
+      </Bind>
+      <Bind>
+        <name>Sprint</name>
+        <primary xmlns:d5p1="http://schemas.datacontract.org/2004/07/UnityEngine">LeftShift</primary>
+        <secondary xmlns:d5p1="http://schemas.datacontract.org/2004/07/UnityEngine">None</secondary>
+        <extra xmlns:d5p1="http://schemas.datacontract.org/2004/07/UnityEngine">None</extra>
+      </Bind>
+    </binds>
+  </Binds>
+  <Binds>
+    <categoryName>In Car</categoryName>
+    <binds>
+      <Bind>
+        <name>Accelerate</name>
+        <primary xmlns:d5p1="http://schemas.datacontract.org/2004/07/UnityEngine">W</primary>
+        <secondary xmlns:d5p1="http://schemas.datacontract.org/2004/07/UnityEngine">UpArrow</secondary>
+        <extra xmlns:d5p1="http://schemas.datacontract.org/2004/07/UnityEngine">None</extra>
+      </Bind>
+      <Bind>
+        <name>Reverse</name>
+        <primary xmlns:d5p1="http://schemas.datacontract.org/2004/07/UnityEngine">S</primary>
+        <secondary xmlns:d5p1="http://schemas.datacontract.org/2004/07/UnityEngine">DownArrow</secondary>
+        <extra xmlns:d5p1="http://schemas.datacontract.org/2004/07/UnityEngine">None</extra>
+      </Bind>
+      <Bind>
+        <name>Steer Left</name>
+        <primary xmlns:d5p1="http://schemas.datacontract.org/2004/07/UnityEngine">D</primary>
+        <secondary xmlns:d5p1="http://schemas.datacontract.org/2004/07/UnityEngine">RightArrow</secondary>
+        <extra xmlns:d5p1="http://schemas.datacontract.org/2004/07/UnityEngine">None</extra>
+      </Bind>
+      <Bind>
+        <name>Steer Right</name>
+        <primary xmlns:d5p1="http://schemas.datacontract.org/2004/07/UnityEngine">A</primary>
+        <secondary xmlns:d5p1="http://schemas.datacontract.org/2004/07/UnityEngine">LeftArrow</secondary>
+        <extra xmlns:d5p1="http://schemas.datacontract.org/2004/07/UnityEngine">None</extra>
+      </Bind>
+      <Bind>
+        <name>Hand Brake</name>
+        <primary xmlns:d5p1="http://schemas.datacontract.org/2004/07/UnityEngine">Space</primary>
+        <secondary xmlns:d5p1="http://schemas.datacontract.org/2004/07/UnityEngine">None</secondary>
+        <extra xmlns:d5p1="http://schemas.datacontract.org/2004/07/UnityEngine">None</extra>
+      </Bind>
+    </binds>
+  </Binds>
+  <Binds>
+    <categoryName>In Plane</categoryName>
+    <binds>
+      <Bind>
+        <name>Accelerate</name>
+        <primary xmlns:d5p1="http://schemas.datacontract.org/2004/07/UnityEngine">W</primary>
+        <secondary xmlns:d5p1="http://schemas.datacontract.org/2004/07/UnityEngine">UpArrow</secondary>
+        <extra xmlns:d5p1="http://schemas.datacontract.org/2004/07/UnityEngine">None</extra>
+      </Bind>
+      <Bind>
+        <name>Reverse</name>
+        <primary xmlns:d5p1="http://schemas.datacontract.org/2004/07/UnityEngine">S</primary>
+        <secondary xmlns:d5p1="http://schemas.datacontract.org/2004/07/UnityEngine">DownArrow</secondary>
+        <extra xmlns:d5p1="http://schemas.datacontract.org/2004/07/UnityEngine">None</extra>
+      </Bind>
+      <Bind>
+        <name>Steer Left</name>
+        <primary xmlns:d5p1="http://schemas.datacontract.org/2004/07/UnityEngine">D</primary>
+        <secondary xmlns:d5p1="http://schemas.datacontract.org/2004/07/UnityEngine">RightArrow</secondary>
+        <extra xmlns:d5p1="http://schemas.datacontract.org/2004/07/UnityEngine">None</extra>
+      </Bind>
+      <Bind>
+        <name>Steer Right</name>
+        <primary xmlns:d5p1="http://schemas.datacontract.org/2004/07/UnityEngine">A</primary>
+        <secondary xmlns:d5p1="http://schemas.datacontract.org/2004/07/UnityEngine">LeftArrow</secondary>
+        <extra xmlns:d5p1="http://schemas.datacontract.org/2004/07/UnityEngine">None</extra>
+      </Bind>
+      <Bind>
+        <name>Hand Brake</name>
+        <primary xmlns:d5p1="http://schemas.datacontract.org/2004/07/UnityEngine">Space</primary>
+        <secondary xmlns:d5p1="http://schemas.datacontract.org/2004/07/UnityEngine">None</secondary>
+        <extra xmlns:d5p1="http://schemas.datacontract.org/2004/07/UnityEngine">None</extra>
+      </Bind>
+    </binds>
+  </Binds>
+</ArrayOfBinds>

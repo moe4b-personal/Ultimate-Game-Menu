@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfAudioChannel xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/UGM">
+  <AudioChannel>
+    <name>Music</name>
+    <volume>0.8</volume>
+  </AudioChannel>
+  <AudioChannel>
+    <name>FX</name>
+    <volume>0.08366696</volume>
+  </AudioChannel>
+  <AudioChannel>
+    <name>Speech</name>
+    <volume>0.8</volume>
+  </AudioChannel>
+  <AudioChannel>
+    <name>Car FX</name>
+    <volume>0.818163753</volume>
+  </AudioChannel>
+</ArrayOfAudioChannel>

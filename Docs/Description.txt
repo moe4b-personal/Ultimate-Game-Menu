@@ -1,0 +1,2 @@
+Ultimate Game Menu (UGM) is a unity asset designed to help with gameplay and UI, it includes a rebindable Input Manager, Audio Channels System (volume managment), A saved values system to save, load, monitor and update the values of UI elements and a prebuilt main and pause menus to demonstrate these features.
+UGM was designed to be be used as both a base for new projects or as an easy to add extension to existing projects, with API simmilar to unity's api and example scripts to showcase it's usability.

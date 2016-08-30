@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MenuSettings xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/UGM">
+  <anisotropicFiltering xmlns:d2p1="http://schemas.datacontract.org/2004/07/UnityEngine">Disable</anisotropicFiltering>
+  <antiAliasing>None</antiAliasing>
+  <fullScreen>false</fullScreen>
+  <realTimeReflections>false</realTimeReflections>
+  <resolution>0</resolution>
+  <shadows>None</shadows>
+  <shadowsQuality>Low</shadowsQuality>
+  <vSync>None</vSync>
+  <volume>0</volume>
+</MenuSettings>

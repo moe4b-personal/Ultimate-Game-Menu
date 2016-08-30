@@ -1,0 +1,10 @@
+Title : Ultimate Game Menu
+
+version number : 1.1.0
+
+Version Changes :
+- Revamped All Scripts To Fit A More Modular Approach (More Components = More Freedom)
+-Added Loading Scene When Switching Between Scenes With A Loading Bar
+-All Options Are Saved As Saved Values Except Saved Settings
+
+Price : 10$
